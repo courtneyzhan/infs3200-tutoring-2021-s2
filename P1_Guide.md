@@ -1,16 +1,21 @@
+# DISCLAIMER
+**This file is intended as an outline for what is expected in Practical 1, it is NOT definitive for what you should include and should be treated as a guide ONLY. Please format your file nicely!!**  
+This file was worked on live in my practical.
+
+# Submission Expectations  
+* This Document (Report) as a **PDF** or .docx
+* SQL File -> Every query in this Prac  
+-- Task 1  
+-- Part 1.  
+`Query`  
+-- Part 2
+* Zip it and submit on BB
+
 # Prac 1: Distributed Databases
 ## INFS3200/7907  
 ## Courtney Zhan - 45033232  
 
 
-#Submission  
-* This Document (Report). 
-* SQL File -> Every query in this Prac  
--- Task 1  
--- Part 1. 
-Query 
--- Part 2
-* Zip it and submit on BB
 
 ### Task 1 - SQL Queries
 --- 1 User (That's you! USER_S1234567, but use your own ID!!) 
@@ -57,7 +62,7 @@ Result: (SID)
 	Querie/s OR 1 Transaction
 Result: (SID)
 
-#### No
+#### No Replication
 	Querie/s OR 1 Transaction
 Result: (SID)
 
